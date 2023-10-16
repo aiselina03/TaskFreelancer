@@ -193,9 +193,6 @@ img {
   font-family: sans-serif;
    padding: 30px 300px; 
   line-height: 30px;
-}
-
-.sec3 .about{
   display: flex;
   justify-content: space-between;
   align-items:center;
